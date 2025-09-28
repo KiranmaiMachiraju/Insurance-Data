@@ -2,6 +2,8 @@
 
 An end-to-end data analysis and machine learning project to explore the **drivers of health insurance charges** and **predict future costs** using regression techniques. The entire pipeline — from data cleaning to modeling and dashboard visualization — was built in **Python (Pandas)** within **Databricks**, without using PySpark.
 
+Link of Databricks Dashboard: https://dbc-a369eaca-2b10.cloud.databricks.com/dashboardsv3/01f09be7b37b10d1922ffd1a46be5a98/published?o=3012532924152497&f_c8d89a96%7Ec21c6932=_all_
+
 ---
 
 ## 📊 Project Overview
